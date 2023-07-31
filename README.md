@@ -99,10 +99,3 @@ Contributions are welcome! Feel free to open issues and pull requests to suggest
 
 License
 This project is licensed under the MIT License.
-
-Contact
-For inquiries and collaborations, please contact:
-
-Your Name - rkweb3.00@gmail.com
-
-Project Link: https://github.com/rkmonarch/flutter-biometric-encryption
